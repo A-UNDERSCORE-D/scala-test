@@ -1,0 +1,20 @@
+[
+  {
+    "modid": "messaround",
+    "name": "Messaround",
+    "description": "thing with the stuff",
+    "version": "${version}",
+    "mcversion": "${mcversion}",
+    "url": "",
+    "updateUrl": "",
+    "authorList": [
+      "the_guy"
+    ],
+    "credits": "",
+    "logoFile": "",
+    "screenshots": [],
+    "dependencies": [
+      ""
+    ]
+  }
+]
