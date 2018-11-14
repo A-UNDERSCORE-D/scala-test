@@ -4,12 +4,12 @@ import net.minecraftforge.fml.common.{Mod, SidedProxy}
 import net.minecraftforge.fml.common.event.{FMLInitializationEvent, FMLPreInitializationEvent}
 import org.apache.logging.log4j.Logger
 
-@Mod(modid = Messaround.MOD_ID, name = Messaround.MOD_NAME, version = Messaround.MOD_VERSION, modLanguage = "scala")
+@Mod(modid = Messaround.ModId, name = Messaround.ModName, version = Messaround.ModVersion, modLanguage = "scala")
 object Messaround {
 
-  final val MOD_ID = "messaround"
-  final val MOD_NAME = "messaround"
-  final val MOD_VERSION = "1.0"
+  final val ModId = "messaround"
+  final val ModName = "messaround"
+  final val ModVersion = "1.0"
 
   var logger: Logger = _
 
